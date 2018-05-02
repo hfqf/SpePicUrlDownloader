@@ -15,8 +15,8 @@ var index = 0;
 const config = {
         endpoint: 'http://bj.bcebos.com',         //传入Bucket所在区域域名
         credentials: {
-          ak: 'fd1a99ecacc646378349c9bf18ca63cf',
-          sk: '704ec5d754d1433ca6317ec09e263cd4'
+          ak: '',
+          sk: ''
         }
 };
 const bucket = 'autorepaier';
